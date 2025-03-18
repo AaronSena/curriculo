@@ -43,7 +43,7 @@ function App() {
                     </div>
 
                     <div className='col-md-6 linha-botao'>
-                      <a className='link-projeto' href="#">Link do Projeto Currículo</a>
+                      <a className='link-projeto' href="https://curriculo-ebon-eight.vercel.app/">Link do Projeto Currículo</a>
                     </div>
                   </div>
                 </ul>
